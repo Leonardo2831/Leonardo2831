@@ -26,7 +26,7 @@
 </p></br>
 
 <div align="center">
-     <a href = "mailto:leoferraz1818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:leoferraz1818@gmail.com"><img src="https://img.shields.io/badge/-leoferraz1818@gmail.com%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leonardo-ferraz-688095271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
     <a href="https://instagram.com/leonardo_reis_ferraz?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
 </div></br></br>
