@@ -3,7 +3,16 @@
 </p>
 
 <p align="center">
-  <img width="50%" alt="Estátisticas de Leozinho2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-h=15&show_icons=true&include_all_commits=true"/>
+  <picture>
+        <source
+         srcset="https://github-readme-stats.vercel.app/api?username=Leozinho2831&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"/>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Leozinho2831&show_icons=true&include_all_commits=true&theme=transparent"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img width="50%" alt="Estátisticas de Leozinho2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-        
+        h=15&show_icons=true&include_all_commits=true"/>
+  </picture>
 </p>
 
 <p align="center">
