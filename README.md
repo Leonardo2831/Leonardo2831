@@ -26,9 +26,6 @@
 </p></br>
 
 <div align="center">
-    
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leoferraz1818@gmail.com)
-    
 <a href="https://www.linkedin.com/in/leonardo-ferraz-688095271/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://instagram.com/leonardo_reis_ferraz?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div></br></br>
