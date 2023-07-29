@@ -19,7 +19,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinho2831&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs">
-</p>
+</p></br>
 
 <p align="center">
     <img style="margin: 22px 0 0 20px;" src="https://github-profile-trophy.vercel.app/?username=Leozinho2831&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
