@@ -1,5 +1,6 @@
 <p align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=b58de7&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b58de7&height=120&section=header"/>
+</p>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6b98ea&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo+Reis+Ferraz;I'm+16+years+old;I'm+from+Brazil;I+am+high+school+student;Be+Welcome!+:%29)
