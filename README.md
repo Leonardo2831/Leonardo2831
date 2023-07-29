@@ -15,7 +15,7 @@
         <img width="50%" alt="Estátisticas de Leozinho2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-        
         h=15&show_icons=true&include_all_commits=true"/>
     </picture>
-</p>
+</p></br>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinho2831&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs">
@@ -23,7 +23,7 @@
 
 <p align="center">
     <img style="margin: 22px 0 0 20px;" src="https://github-profile-trophy.vercel.app/?username=Leozinho2831&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
+</p></br>
 
 <div align="center">
     <a href="leoferraz1818@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
