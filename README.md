@@ -12,7 +12,7 @@
         <source
         srcset="https://github-readme-stats.vercel.app/api?username=Leozinho2831&show_icons=true&include_all_commits=true&theme=transparent"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img width="50%" alt="Estátisticas de Leozinho2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-        
+        <img width="100%" alt="Estátisticas de Leozinho2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-        
         h=15&show_icons=true&include_all_commits=true"/>
     </picture>
 </p></br>
