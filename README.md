@@ -7,22 +7,22 @@
 <p align="center">
     <picture>
         <source
-         srcset="https://github-readme-stats.vercel.app/api?username=Leozinho2831&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
+         srcset="https://github-readme-stats.vercel.app/api?username=Leonardo2831&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
         media="(prefers-color-scheme: dark)"/>
         <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Leozinho2831&show_icons=true&include_all_commits=true&theme=transparent"
+        srcset="https://github-readme-stats.vercel.app/api?username=Leonardo2831&show_icons=true&include_all_commits=true&theme=transparent"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img width="100%" alt="Estátisticas de Leozinho2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-        
+        <img width="100%" alt="Estátisticas de Leonardo2831" src="https://github-readme-stats.vercel.app/api?username=Leozinho2831&margin-w=15&margin-        
         h=15&show_icons=true&include_all_commits=true"/>
     </picture>
 </p></br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinho2831&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2831&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs">
 </p></br>
 
 <p align="center">
-    <img style="margin: 22px 0 0 20px;" src="https://github-profile-trophy.vercel.app/?username=Leozinho2831&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+    <img style="margin: 22px 0 0 20px;" src="https://github-profile-trophy.vercel.app/?username=Leonardo2831&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p></br>
 
 <div align="center">
@@ -33,7 +33,7 @@
 </div></br></br>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leozinho2831&bg_color=1c1c24&color=6b98ea&line=9e4c98&point=b58de7&area=true&hide_border=true" alt="Ashutosh's github activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo2831&bg_color=1c1c24&color=6b98ea&line=9e4c98&point=b58de7&area=true&hide_border=true" alt="Ashutosh's github activity graph">
 </p>
 
 <h2 align="center" style="color:6b98ea;">Main Skills</h2>
