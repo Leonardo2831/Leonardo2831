@@ -28,19 +28,25 @@
 <div align="center">
      <a href="mailto:leoferraz1818@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="leoferraz1818@gmail.com"></a>
-    <a href="https://www.linkedin.com/in/leonardo-ferraz-688095271/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>
-    <a href="https://instagram.com/leonardo_reis_ferraz?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
+    <a href="https://www.linkedin.com/in/leonardo-ferraz-688095271/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
+    </a>
+    <a href="https://instagram.com/leonardo_reis_ferraz?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" >
+    </a>
 </div></br></br>
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo2831&bg_color=1c1c24&color=6b98ea&line=9e4c98&point=b58de7&area=true&hide_border=true" alt="Ashutosh's github activity graph">
 </p>
 
-<h2 align="center" style="color:6b98ea;">Main Skills</h2>
+<h2 align="center" style="color:#6b98ea;">Skills</h2>
 <div align="center">
     <img style="margin: 3px;" align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img style="margin: 3px;" align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img style="margin: 3px;" align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img style="margin; 3px;" align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img style="margin: 3px;" align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div></br>
 
 <h2 style="color: 6b98ea;" align="center">Tools</h2>
