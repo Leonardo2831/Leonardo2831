@@ -23,9 +23,9 @@ Me chamo Leonardo Reis Ferraz, tenho 19 anos e sou de Brasil. Estou no curso de 
 <h2 align="start" style="color: #6b98ea;">Tools</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=20232A" alt="VSCode">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/antigravity-007ACC?style=for-the-badge&logo=antigravity&logoColor=white" alt="Antigravity">
     <img src="https://img.shields.io/badge/cursor-143?style=for-the-badge&logo=cursor&logoColor=white&color=black" alt="Cursor">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 <br>
