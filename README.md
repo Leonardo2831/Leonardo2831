@@ -37,7 +37,7 @@ Me chamo Leonardo Reis Ferraz, tenho 19 anos e sou de Brasil. Estou no curso de 
 <br>
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=highcontrast&hide_border=true&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-weld-beta.vercel.app?user=Leonardo2831&theme=highcontrast&hide_border=true&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <h2 align="start" style="color: #6b98ea;">Contato</h2>
