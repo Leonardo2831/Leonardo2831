@@ -32,7 +32,7 @@ Me chamo Leonardo Reis Ferraz, tenho 19 anos e sou de Brasil. Estou no curso de 
 <br>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo2831&bg_color=1c1c24&color=6b98ea&line=9e4c98&point=b58de7&area=true&hide_border=true" alt="Leonardo's github activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo2831&locale=pt&bg_color=1c1c24&color=6b98ea&line=9e4c98&point=b58de7&area=true&hide_border=true" alt="Leonardo's github activity graph">
 </p>
 <br>
 
