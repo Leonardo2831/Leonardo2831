@@ -69,10 +69,3 @@ Me chamo Leonardo Reis Ferraz, tenho 19 anos e sou de Brasil. Estou no curso de 
 <p align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b58de7&height=120&section=footer"/>
 </p>
-<h3 align="center" style="color:6b98ea;">
-    "Não é a linguagem que define o programador, sim sua lógica."
-</h3>
-
-<p align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b58de7&height=120&section=footer"/>
-</p>
