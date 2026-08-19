@@ -29,12 +29,6 @@ Olá! Sou Leonardo Reis Ferraz, tenho 19 anos e sou estudante de Engenharia de S
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 <br>
-<br>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo2831&bg_color=1c1c24&color=6b98ea&line=9e4c98&point=b58de7&area=true&hide_border=true" alt="Leonardo's github activity graph">
-</p>
-<br>
 
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-weld-beta.vercel.app?user=Leonardo2831&theme=highcontrast&hide_border=true&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
