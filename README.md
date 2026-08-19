@@ -6,7 +6,7 @@
 
 <code><strong>Desenvolvedor Front-end</strong></code>
 
-Me chamo Leonardo Reis Ferraz, tenho 19 anos e sou de Brasil. Estou no curso de Engenharia de Software na UNIFAE em São João da Boa Vista (SP). Busco sempre aprender e me aprimorar cada vez mais, vendo várias linguagens, modos de desenvolvimento principalmente usando a IA como ferramenta para auxiliar no desenvolvimento e adquirir conhecimento sobre como usá-la no dia a dia de desenvolvimento.
+Olá! Sou Leonardo Reis Ferraz, tenho 19 anos e sou estudante de Engenharia de Software na UNIFAE, em São João da Boa Vista (SP). Sou um profissional em formação, movido pela busca contínua por aprendizado e pelo aprimoramento técnico. Tenho explorado diversas linguagens e metodologias de desenvolvimento, com um interesse especial em compreender melhor como integrar a Inteligência Artificial ao meu fluxo de trabalho para melhores resultados e trazer projetos com mais agilidade e perfeição.
 
 <h2 align="start" style="color:#6b98ea;">Skills</h2>
 <div align="center">
